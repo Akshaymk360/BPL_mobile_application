@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "493811215637",
+    "project_id": "bpl-mobile-application",
+    "storage_bucket": "bpl-mobile-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493811215637:android:512ba200db9c66a587cd1c",
+        "android_client_info": {
+          "package_name": "com.example.bplmobileapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493811215637-0i5kvfbtk6gr0lr1iai0um9bsdc3spja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bplmobileapplication",
+            "certificate_hash": "fcf34f15c0560710cb0d617bf39a5111bfd62ba8"
+          }
+        },
+        {
+          "client_id": "493811215637-5e7p04gcrdmerpuv66p2s0ll52b9ufju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZMGIIRN2Vu3PMybDG2Jo2XJNIJ1QXl_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493811215637-5e7p04gcrdmerpuv66p2s0ll52b9ufju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
